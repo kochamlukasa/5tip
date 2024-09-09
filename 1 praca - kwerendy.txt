@@ -1,0 +1,7 @@
+1. SELECT FirstName, LastName, Notes FROM Employees WHERE EmployeeID = 2;
+
+2. SELECT * FROM Suppliers WHERE Country <> "USA";
+
+3. SELECT * FROM Products Order by ProductName;
+
+4. SELECT DISTINCT City FROM Suppliers;
